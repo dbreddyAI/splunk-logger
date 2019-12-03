@@ -1,5 +1,5 @@
 # splunk-logger
-** Custom logger for Splunk Modular Inputs **
+**Custom Python logger for Splunk Modular Input**
 
 Use the follofing to use this logger:
 ``` python 
